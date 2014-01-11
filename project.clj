@@ -1,4 +1,4 @@
-(defproject polyglot-java/lein-template "0.1.0"
+(defproject polyglot-java/lein-template "0.1.1-SNAPSHOT"
   :description "A Leiningen template for polyglot (Clojure, Java) projects."
   :url "https://github.com/ndimiduk/"
   :license {:name "Apache License, Version 2.0"
